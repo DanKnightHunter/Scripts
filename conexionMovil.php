@@ -1,8 +1,8 @@
 <?php
-phpinfo();
+
 
     function conectar()  {
-        $hostname_localhost ="localhost";        
+        $hostname_localhost ="167.71.150.242";        
         $database_localhost ="horario";
         $username_localhost ="root";
         $password_localhost ="password";
