@@ -1,4 +1,5 @@
 <?php
+phpinfo();
 
     function conectar()  {
         $hostname_localhost ="localhost";        
